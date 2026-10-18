@@ -1,0 +1,6 @@
+{
+  "name": "MedFrame Studio",
+  "description": "The premier digital agency for elite physicians, surgeons, and clinical leaders crafting bespoke personal brands, authority medical websites, and reputation engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
